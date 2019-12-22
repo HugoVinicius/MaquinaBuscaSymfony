@@ -11,7 +11,7 @@
 
 
 ## Instalação
-É necessário instalar fazer a instação do Composer, PHP e PHPUnit.
+É necessário fazer a instação do Composer, PHP e PHPUnit.
 
 Apos a instalação realizada basta executar o comando abaixo.
 
